@@ -1,2 +1,1 @@
-# MinMaxTicTacToe
-A little experiment to play with MinMaxSearch algorithims
+# aula-05-desafio1-jogo-da-velha-minmax-nao-obrigatorio-arielmil
